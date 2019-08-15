@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Aug 06 00:21:34 PDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0165-0e1c-cf8b-00000696c6b8 
+on database directory /Users/ayushbharti/Documents/Code/shivi/FlightSchedulerTrishitatjb5698/FlightSchedulerDBTrishitatjb5698 with class loader sun.misc.Launcher$AppClassLoader@6e0be858 
+Loaded from file:/Applications/NetBeans/glassfish-4.1.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=/Users/ayushbharti/Documents/Code/shivi/FlightSchedulerTrishitatjb5698
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
